@@ -4,9 +4,12 @@ name: Day-1-Task-1
 
 ### Reading Material
 **10 / 3 = 3** hota hai `/` *divide* ka sign hota hai.
+**10 / 3 = 3** hota hai `/` This is the *divide* sign
 
 **10 % 3 = 1** hota hai `%` modulas bolte hai joh ki ek number `10` agar hum `3`
 se divide kare toh reminder kya ayega iska yeh bata ta hai.
+
+% Modulo of a number is the reminder after dividing the number.
 
 ### Question
 Apko ek number diya jayega manlo **x** toh apko *1 se leke x* ke bich meh joh bi *number* **3 or 5** se **divisible** hai ushe *print* kardo.
